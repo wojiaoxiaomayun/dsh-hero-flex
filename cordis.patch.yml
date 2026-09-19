@@ -1,0 +1,8 @@
+# dsh-hero-flex bundle patch
+#
+# 安装后通过 bundle 通道挂载：
+#   dsh plugin --profile <name> add @dsh-xhl/dsh-hero-flex@<version>
+# 或手动把 '@dsh-xhl/dsh-hero-flex' 加进 profile 的 dsh.profile.bundles 并 link 依赖。
+- insert:
+    - id: dsh-hero-flex
+      name: '@dsh-xhl/dsh-hero-flex'
