@@ -1,6 +1,6 @@
 {
   "name": "@dsh-xhl/dsh-hero-flex",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "description": "DSH hero flex seat: occupies the conversation header's corner seat (conversation.session.header.corner) at the lowest priority and hosts a plugin-additive flex row (hero.flex) in the hero / blank-session top-right corner, beside the re-painted right-sidebar expand button.",
   "type": "module",
